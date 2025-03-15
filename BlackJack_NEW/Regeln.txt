@@ -1,0 +1,37 @@
+Ziel des Spiels
+Das Hauptziel von Blackjack ist es, eine Hand zu bekommen, deren Wert näher an 21 liegt als die Hand des Dealers, ohne 21 zu überschreiten.
+
+Wert der Karten
+
+1.	Zahlenkarten (2-10): Der Wert entspricht der auf der Karte angegebenen Zahl.
+2.	Bildkarten (Bube, Dame, König): Jede Bildkarte zählt 10 Punkte.
+3.	Asse: Ein Ass kann entweder 1 Punkt oder 11 Punkte zählen, je nachdem, was für die Hand vorteilhafter ist.
+
+Spielablauf
+
+1.	Setzen: Zu Beginn jeder Runde platzieren die Spieler ihre Einsätze.
+2.	Karten austeilen:
+	1.	Jeder Spieler erhält zwei Karten.
+	2.	Der Dealer erhält ebenfalls zwei Karten, wobei eine offen und eine verdeckt ist.
+
+3.	Spieleraktionen:
+	1.	Hit (Karte ziehen): Der Spieler zieht eine weitere Karte, um den Wert seiner Hand zu erhöhen.
+	2.	Stand (stehen bleiben): Der Spieler behält seine aktuelle Hand und beendet seinen Zug.
+	3.	Double Down (Verdoppeln): Der Spieler verdoppelt seinen Einsatz, erhält eine weitere Karte und beendet danach seinen Zug.
+	
+4.	Dealer zieht:
+	1.	Der Dealer zeigt seine verdeckte Karte und zieht weitere Karten gemäß den Regeln des Casinos (oft bis mindestens 17 Punkte erreicht sind).
+	2.	Der Dealer muss in der Regel Karten ziehen, bis er mindestens 17 Punkte erreicht (in einigen Casinos bis 18).
+
+5.	Auswertung:
+	1.	Wenn der Spieler 21 Punkte überschreitet, verliert er automatisch (Bust).
+	2.	Wenn der Dealer 21 Punkte überschreitet, gewinnen alle verbleibenden Spieler.
+	3.	Ansonsten vergleicht der Dealer die Handwerte:
+		1.	Die Hand mit dem Wert näher an 21 gewinnt.
+		2.	Bei einem Unentschieden (Push) behalten die Spieler ihren Einsatz.
+
+Gewinnmöglichkeiten
+
+1.	Blackjack: Wenn die ersten beiden Karten eines Spielers ein Ass und eine 10-Punkte-Karte sind, gewinnt der Spieler 1,5-mal seinen Einsatz.
+2.	Gewinn: Bei einem Gewinn erhält der Spieler 1:1 für seinen Einsatz.
+3.	Push: Wenn der Spieler und der Dealer die gleiche Punktzahl haben, wird der Einsatz zurückgegeben.
